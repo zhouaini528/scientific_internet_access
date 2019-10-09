@@ -15,7 +15,7 @@
 
 如图所示：
 
-![](./img/aliyun/2.png)
+![](./img/aliyun/2.jpg)
 
 
 #### 三：进去后点击创建实例
@@ -62,7 +62,7 @@
 
 最终配置如下图所示：
 
-![](./img/aliyun/5.png)
+![](./img/aliyun/5.jpg)
 
 
 #### 五：系统配置
@@ -73,7 +73,7 @@
 
 如下图所示：
 
-![](./img/aliyun/6.png)
+![](./img/aliyun/6.jpg)
 
 
 #### 五：创建实例
@@ -118,7 +118,7 @@
 
 服务器列表：
 
-![](./img/aliyun/11.png)
+![](./img/aliyun/11.jpg)
 
 
 系统管理
@@ -160,7 +160,7 @@
 
 第一条命令
 
-![](./img/aliyun/17.png)
+![](./img/aliyun/17.jpg)
 
 
 第二条命令
@@ -175,7 +175,7 @@
 
 最后结果
 
-![](./img/aliyun/20.png)
+![](./img/aliyun/20.jpg)
 
 
 #### 八：最后一步
@@ -202,12 +202,12 @@
 
 点击配置规则
 
-![](./img/aliyun/23.png)
+![](./img/aliyun/23.jpg)
 
 
 点击快速创建规则
 
-![](./img/aliyun/24.png)
+![](./img/aliyun/24.jpg)
 
 
 添加端口与ip
