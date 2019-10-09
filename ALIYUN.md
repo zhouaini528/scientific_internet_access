@@ -8,7 +8,7 @@
 
 如图所示：
 
-![](./img/aliyun/1.jpg)
+![](./img/aliyun/1.png)
 
 
 #### 二:登录进去后，左边下拉框点击“云服务器ECS”
@@ -22,7 +22,7 @@
 
 如图所示：
 
-![](./img/aliyun/3.jpg)
+![](./img/aliyun/3.png)
 
 
 #### 四：如何选择配置等等问题
@@ -86,17 +86,17 @@
 
 如下图所示：
 
-![](./img/aliyun/7.jpg)
+![](./img/aliyun/7.png)
 
 
 创建成功：
 
-![](./img/aliyun/8.jpg)
+![](./img/aliyun/8.png)
 
 
 管理控制台：
 
-![](./img/aliyun/9.jpg)
+![](./img/aliyun/9.png)
 
 
 #### 六：进入系统
@@ -113,7 +113,7 @@
 
 数据管理DMS：
 
-![](./img/aliyun/10.jpg)
+![](./img/aliyun/10.png)
 
 
 服务器列表：
@@ -123,22 +123,22 @@
 
 系统管理
 
-![](./img/aliyun/12.jpg)
+![](./img/aliyun/12.png)
 
 
 输入帐号和密码
 
-![](./img/aliyun/13.jpg)
+![](./img/aliyun/13.png)
 
 
 进入系统，点击“命令终端”
 
-![](./img/aliyun/14.jpg)
+![](./img/aliyun/14.png)
 
 
 命令终端
 
-![](./img/aliyun/15.jpg)
+![](./img/aliyun/15.png)
 
 
 
@@ -165,17 +165,17 @@
 
 第二条命令
 
-![](./img/aliyun/18.jpg)
+![](./img/aliyun/18.png)
 
 
 第三条命令
 
-![](./img/aliyun/19.jpg)
+![](./img/aliyun/19.png)
 
 
 最后结果
 
-![](./img/aliyun/20.jpg)
+![](./img/aliyun/20.png)
 
 
 #### 八：最后一步
@@ -192,12 +192,12 @@
 
 进入ECS服务器列表
 
-![](./img/aliyun/21.jpg)
+![](./img/aliyun/21.png)
 
 
 点击安全组
 
-![](./img/aliyun/22.jpg)
+![](./img/aliyun/22.png)
 
 
 点击配置规则
@@ -212,7 +212,7 @@
 
 添加端口与ip
 
-![](./img/aliyun/25.jpg)
+![](./img/aliyun/25.png)
 
 
 #### 九：大功告成
@@ -227,27 +227,27 @@
 
 如图所示：
 
-![](./img/aliyun/26.jpg)
+![](./img/aliyun/26.png)
 
 
 如图所示：
 
-![](./img/aliyun/27.jpg)
+![](./img/aliyun/27.png)
 
 
 配置连接帐号与密码
 
-![](./img/aliyun/28.jpg)
+![](./img/aliyun/28.png)
 
 
 启动梯子
 
-![](./img/aliyun/29.jpg)
+![](./img/aliyun/29.png)
 
 
 最后结果
 
-![](./img/aliyun/99.jpg)
+![](./img/aliyun/99.png)
 
 
 
