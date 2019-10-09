@@ -8,21 +8,21 @@
 
 如图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/1.jpg)
+![](./img/aliyun/1.jpg)
 
 
 #### 二:登录进去后，左边下拉框点击“云服务器ECS”
 
 如图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/2.jpg)
+![](./img/aliyun/2.jpg)
 
 
 #### 三：进去后点击创建实例
 
 如图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/3.jpg)
+![](./img/aliyun/3.jpg)
 
 
 #### 四：如何选择配置等等问题
@@ -45,7 +45,7 @@
 
 最终配置如下图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/4.jpg)
+![](./img/aliyun/4.jpg)
 
 
 #### 五：网络与安全配置
@@ -62,7 +62,7 @@
 
 最终配置如下图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/5.jpg)
+![](./img/aliyun/5.jpg)
 
 
 #### 五：系统配置
@@ -73,7 +73,7 @@
 
 如下图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/6.jpg)
+![](./img/aliyun/6.jpg)
 
 
 #### 五：创建实例
@@ -86,17 +86,17 @@
 
 如下图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/7.jpg)
+![](./img/aliyun/7.jpg)
 
 
 创建成功：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/8.jpg)
+![](./img/aliyun/8.jpg)
 
 
 管理控制台：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/9.jpg)
+![](./img/aliyun/9.jpg)
 
 
 #### 六：进入系统
@@ -113,32 +113,32 @@
 
 数据管理DMS：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/10.jpg)
+![](./img/aliyun/10.jpg)
 
 
 服务器列表：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/11.jpg)
+![](./img/aliyun/11.jpg)
 
 
 系统管理
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/12.jpg)
+![](./img/aliyun/12.jpg)
 
 
 输入帐号和密码
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/13.jpg)
+![](./img/aliyun/13.jpg)
 
 
 进入系统，点击“命令终端”
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/14.jpg)
+![](./img/aliyun/14.jpg)
 
 
 命令终端
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/15.jpg)
+![](./img/aliyun/15.jpg)
 
 
 
@@ -160,22 +160,22 @@
 
 第一条命令
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/17.jpg)
+![](./img/aliyun/17.jpg)
 
 
 第二条命令
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/18.jpg)
+![](./img/aliyun/18.jpg)
 
 
 第三条命令
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/19.jpg)
+![](./img/aliyun/19.jpg)
 
 
 最后结果
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/20.jpg)
+![](./img/aliyun/20.jpg)
 
 
 #### 八：最后一步
@@ -192,27 +192,27 @@
 
 进入ECS服务器列表
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/21.jpg)
+![](./img/aliyun/21.jpg)
 
 
 点击安全组
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/22.jpg)
+![](./img/aliyun/22.jpg)
 
 
 点击配置规则
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/23.jpg)
+![](./img/aliyun/23.jpg)
 
 
 点击快速创建规则
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/24.jpg)
+![](./img/aliyun/24.jpg)
 
 
 添加端口与ip
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/25.jpg)
+![](./img/aliyun/25.jpg)
 
 
 #### 九：大功告成
@@ -227,27 +227,27 @@
 
 如图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/26.jpg)
+![](./img/aliyun/26.jpg)
 
 
 如图所示：
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/27.jpg)
+![](./img/aliyun/27.jpg)
 
 
 配置连接帐号与密码
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/28.jpg)
+![](./img/aliyun/28.jpg)
 
 
 启动梯子
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/29.jpg)
+![](./img/aliyun/29.jpg)
 
 
 最后结果
 
-![title](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/99.jpg)
+![](./img/aliyun/99.jpg)
 
 
 
