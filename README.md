@@ -4,4 +4,4 @@
 
 [Aliyun 首次搭建梯子](./ALIYUN.md)
 
-[Aliyun 被封1-5分钟内解决](./ALIYUN_1.md)
+[Aliyun 被封5分钟内解决](./ALIYUN_1.md)
