@@ -50,6 +50,8 @@
 
 打开梯子软件，只修改刚刚的新公网IP,并等待1-2分钟，即可正常使用
 
+windows的梯子[下载](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
+
 ![](./img/aliyun/113.jpg)
 
 
