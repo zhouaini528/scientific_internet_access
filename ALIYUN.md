@@ -146,17 +146,19 @@
 
 高端的来了，这里有三条命令需要你复制进去（Ctrl+V）
 
-1:wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
+```shell
+wget --no-check-certificate https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocksR.sh
 
-2:chmod +x shadowsocksR.sh
+chmod +x shadowsocksR.sh
 
-3:./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+./shadowsocksR.sh 2>&1 | tee shadowsocksR.log
+```
 
-命令的大神建立者[还有很多](https://github.com/iMeiji/shadowsocks_install/wiki/shadowsocksR-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85)
+命令的大神建立者[点击这里](https://github.com/iMeiji/shadowsocks_install/wiki/shadowsocksR-%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85)
 
-冒号后面的一个字母一个标点都不能少，如果期间连接服务器断开也没事，按任意键重新连接就行了，之前输入的命令回车后的结果不会消失，接着下一步。
+三行命令一行一行的复制全，如果期间连接服务器断开也没事，按任意键重新连接就行了，之前输入的命令回车后的结果不会消失，接着下一步。
 
-第三条命令后，输入密码后，就一直回车5次，然后等待1-3分钟安全完成。
+第三条命令后，输入密码后，就一直回车5次，然后等待1-3分钟安全完成。最后出现账户、端口、密码等等。
 
 第一条命令
 
