@@ -44,15 +44,18 @@
 
 ![](./img/aliyun/111.jpg)
 
-释放已经被封的服务器
-
-![](./img/aliyun/112.jpg)
-
-打开梯子软件，只修改刚刚的新公网IP,并等待1-2分钟，即可正常使用
+得到新IP,尝试是否可以正常翻墙，刚刚建立的梯子可能连接要等待1-5分钟
 
 windows的梯子[下载](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 
 ![](./img/aliyun/113.jpg)
+
+
+如果新梯子翻墙成功就释放已经被封的服务器
+
+![](./img/aliyun/112.jpg)
+
+
 
 
 
