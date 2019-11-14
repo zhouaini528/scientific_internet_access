@@ -15,3 +15,5 @@ PS:解释几个问题
 [Aliyun 首次搭建梯子](./ALIYUN.md)
 
 [Aliyun 被封3分钟内解决](./ALIYUN_1.md)
+
+[更高级的玩法，V2Ray搭建，支持多种协议](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
