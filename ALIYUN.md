@@ -10,21 +10,21 @@
 
 如图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/1.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/1.png)
 
 
 #### 二:登录进去后，左边下拉框点击“云服务器ECS”
 
 如图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/2.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/2.jpg)
 
 
 #### 三：进去后点击创建实例
 
 如图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/3.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/3.png)
 
 
 #### 四：如何选择配置等等问题
@@ -47,7 +47,7 @@
 
 最终配置如下图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/4.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/4.jpg)
 
 
 #### 五：网络与安全配置
@@ -64,7 +64,7 @@
 
 最终配置如下图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/5.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/5.jpg)
 
 
 #### 五：系统配置
@@ -75,7 +75,7 @@
 
 如下图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/6.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/6.jpg)
 
 
 #### 五：创建实例
@@ -88,17 +88,17 @@
 
 如下图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/7.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/7.png)
 
 
 创建成功：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/8.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/8.png)
 
 
 管理控制台：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/9.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/9.png)
 
 
 #### 六：进入系统
@@ -115,32 +115,32 @@
 
 数据管理DMS：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/10.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/10.png)
 
 
 服务器列表：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/11.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/11.jpg)
 
 
 系统管理
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/12.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/12.png)
 
 
 输入帐号和密码
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/13.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/13.png)
 
 
 进入系统，点击“命令终端”
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/14.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/14.png)
 
 
 命令终端
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/15.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/15.png)
 
 
 
@@ -164,22 +164,22 @@ chmod +x shadowsocksR.sh
 
 第一条命令
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/17.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/17.jpg)
 
 
 第二条命令
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/18.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/18.png)
 
 
 第三条命令
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/19.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/19.png)
 
 
 最后结果
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/20.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/20.jpg)
 
 
 #### 八：最后一步
@@ -196,27 +196,27 @@ chmod +x shadowsocksR.sh
 
 进入ECS服务器列表
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/21.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/21.png)
 
 
 点击安全组
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/22.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/22.png)
 
 
 点击配置规则
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/23.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/23.jpg)
 
 
 点击快速创建规则
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/24.jpg)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/24.jpg)
 
 
 添加端口与ip
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/25.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/25.png)
 
 
 #### 九：大功告成
@@ -235,27 +235,27 @@ chmod +x shadowsocksR.sh
 
 如图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/26.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/26.png)
 
 
 如图所示：
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/27.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/27.png)
 
 
 配置连接帐号与密码
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/28.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/28.png)
 
 
 启动梯子
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/29.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/29.png)
 
 
 最后结果
 
-![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/99.png)
+![](https://cd-github.oss-cn-chengdu.aliyuncs.com/scientific_internet_access/img/aliyun/99.png)
 
 
 
