@@ -1,5 +1,7 @@
 ### 详细案列
 
+图片有点多，需要等待，不出来多刷新试试。
+
 [点击登录地址](https://account.aliyun.com/login/qr_login.htm)
 
 ![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/101.jpg)

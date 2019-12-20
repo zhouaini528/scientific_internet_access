@@ -6,7 +6,7 @@
 
 注册完后建议你去领优惠券，也许还可以给你优惠点[点我领取](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=xmsff8ku)
 
-领完上面的，继续领双11的活动[点我传送门](https://www.aliyun.com/1111/2019/group-buying-share?ptCode=8F3638EBCD45EBA4414EFF834B1AC34F647C88CF896EF535&userCode=xmsff8ku&share_source=copy_link)
+图片有点多，需要等待，不出来多刷新试试。
 
 如图所示：
 
