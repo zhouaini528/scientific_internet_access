@@ -144,7 +144,7 @@
 
 
 
-#### 七：系统安装梯子
+#### 七：Shadowsocks方式安装梯子
 
 高端的来了，这里有三条命令需要你复制进去（Ctrl+V）
 
@@ -182,7 +182,28 @@ chmod +x shadowsocksR.sh
 ![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/20.jpg)
 
 
-#### 八：最后一步
+#### 七：V2Ray方式安装梯子（推荐用这种方式，被封几率小）
+
+和上面做做法一样，唯一变化的。命令不一样了。
+
+```shell
+bash <(curl -s -L https://git.io/v2ray.sh)
+
+apt-get update -y && apt-get install curl -y
+```
+命令的大神建立者,可以直接过去看看[点击这里](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
+
+我就直接copy原作者的了。
+
+然后选择安装，即是输入 1 回车
+选择传输协议，如果没有特别的需求，使用默认的 TCP 传输协议即可，直接回车
+选择端口，如果没有特别的需求，使用默认的端口即可，直接回车
+是否屏蔽广告，除非你真的需要，一般来说，直接回车即可
+
+
+
+
+#### 九：最后一步
 
 1:进入ECS服务器列表
 
