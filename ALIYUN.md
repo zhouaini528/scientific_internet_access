@@ -200,6 +200,11 @@ apt-get update -y && apt-get install curl -y
 选择端口，如果没有特别的需求，使用默认的端口即可，直接回车
 是否屏蔽广告，除非你真的需要，一般来说，直接回车即可
 
+![](img/aliyun/v1.jpg)
+
+![](img/aliyun/v2.jpg)
+
+![](img/aliyun/v3.jpg)
 
 
 
