@@ -14,7 +14,9 @@ PS:解释几个问题
 
 **5：爱国守法，科学上网，杜绝一切违法行为，否则后果自负**
 
-[Aliyun 首次搭建梯子](./ALIYUN.md)
+[Aliyun V2Ray方式搭建梯子](./ALIYUN.md)
+
+[Aliyun Shadowsocks方式搭建梯子](./ALIYUN.md)
 
 [Aliyun 被封3分钟内解决](./ALIYUN_1.md)
 
