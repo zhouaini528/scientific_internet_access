@@ -184,7 +184,7 @@ chmod +x shadowsocksR.sh
 
 #### 七：V2Ray方式安装梯子（推荐用这种方式，被封几率小）
 
-和上面做做法一样，唯一变化的。命令不一样了。
+和上面做做法一样，变化有3点。1：命令不一样了  2：我们用的阿里云服务器  3：客户端必须用V2Ray下面有连接。
 
 ```shell
 bash <(curl -s -L https://git.io/v2ray.sh)
