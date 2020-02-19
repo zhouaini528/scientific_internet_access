@@ -24,14 +24,6 @@ PS:解释几个问题
 
 
 **注意：**
-Github的图片经常抽风显示不出来，这里有个小技巧，如果你是使用的google浏览器，鼠标箭头指在未显示的图片上，再点击右键选择“检查”，这时弹出一个大框框并出现一堆代码，找到图片的< a href> 标签里的内容，就是原始图片地址，是绝对能打开的。
+Github的图片经常抽风显示不出来，图片地址直接打开。
 
-样例：
-```html
-<p>
-    <a target="_blank" rel="noopener noreferrer" href="一大堆地址">
-        <img src="一大堆地址" alt="" data-canonical-src="http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg" style="max-width:100%;">
-    </a>
-</p>
-```
-其中：[http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg) 为原始地址图片
+长的这个样子：[http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg) 
