@@ -10,21 +10,21 @@
 
 如图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/1.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/1.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/1.png)
 
 
 #### 二:登录进去后，左边下拉框点击“云服务器ECS”
 
 如图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/2.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/2.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/2.jpg)
 
 
 #### 三：进去后点击创建实例
 
 如图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/3.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/3.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/3.png)
 
 
 #### 四：如何选择配置等等问题
@@ -47,7 +47,7 @@
 
 最终配置如下图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/4.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/4.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/4.jpg)
 
 
 #### 五：网络与安全配置
@@ -64,7 +64,7 @@
 
 最终配置如下图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/5.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/5.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/5.jpg)
 
 
 #### 五：系统配置
@@ -75,7 +75,7 @@
 
 如下图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/6.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/6.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/6.jpg)
 
 
 #### 五：创建实例
@@ -88,7 +88,7 @@
 
 如下图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/7.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/7.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/7.png)
 
 
 创建成功：
@@ -98,7 +98,7 @@
 
 管理控制台：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/9.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/9.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/9.png)
 
 
 #### 六：进入系统
@@ -115,32 +115,32 @@
 
 数据管理DMS：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/10.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/10.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/10.png)
 
 
 服务器列表：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/11.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/11.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/11.jpg)
 
 
 系统管理
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/12.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/12.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/12.png)
 
 
 输入帐号和密码
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/13.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/13.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/13.png)
 
 
 进入系统，点击“命令终端”
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/14.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/14.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/14.png)
 
 
 命令终端
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/15.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/15.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/15.png)
 
 
 
@@ -154,17 +154,17 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 
 第一步选择 1  ，然后就一直回车下去。
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/1.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/1.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/1.jpg)
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/2.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/2.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/2.jpg)
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/3.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/3.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/3.jpg)
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/4.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/4.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/4.jpg)
 
 最后安装结果。一定要复制出最后生成的所有信息
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/5.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/5.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/5.jpg)
 
 
 #### 八：最后一步，配置端口，打开防火墙
@@ -181,27 +181,27 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 
 进入ECS服务器列表
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/21.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/21.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/21.png)
 
 
 点击安全组
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/22.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/22.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/22.png)
 
 
 点击配置规则
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/23.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/23.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/23.jpg)
 
 
 点击快速创建规则
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/24.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/24.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/24.jpg)
 
 
 添加端口与ip
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/6.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/6.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/6.jpg)
 
 
 #### 九：大功告成，下载梯子
@@ -213,15 +213,15 @@ https://tlanyan.me/v2ray-clients-download/
 
 如图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/7.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/7.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/7.jpg)
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/8.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/8.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/8.jpg)
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg)
 
 最后，选择你刚刚添加的服务器，并启动http代理，推荐用PAC模式
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/10.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/10.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/10.jpg)
 
 
 如果还有不懂的可以看看这个[点击这里](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
