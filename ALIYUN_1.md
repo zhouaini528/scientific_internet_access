@@ -24,19 +24,19 @@
 
 点击服务器
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/41.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/41.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/41.jpg)
 
 创建自定义镜像
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/42.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/42.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/42.jpg)
 
 镜像配置
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/43.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/43.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/43.jpg)
 
 镜像列表，等待100%就算完成了
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/44.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/44.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/44.jpg)
 
 ### 复制翻墙的梯子 [点击查看一个案列](./ALIYUN_COPY.md)
 
@@ -52,17 +52,17 @@
 
 创建实例
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/45.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/45.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/45.jpg)
 
 配置实例
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/47.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/47.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/47.jpg)
 
 网络配置和安全组，这步就选择带宽，没什么好说的。
 
 系统配置
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/46.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/46.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/46.jpg)
 
 然后就是等待创建中大概等待1-3分钟。[这里有一个更详细的案列](./ALIYUN_COPY.md)
 
@@ -74,13 +74,13 @@
 
 如图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/48.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/48.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/48.jpg)
 
 如果新梯子服务器复制成功，之前被封的梯子就可以释放了
 
 如图所示：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/49.jpg)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/49.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/49.jpg)
 
 
 
