@@ -224,6 +224,7 @@ https://tlanyan.me/v2ray-clients-download/
 ![](./img/aliyun/v2ary/10.jpg)
 
 
+如果还有不懂的可以看看这个[点击这里](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
 
 ### 如果被封了，如何快速恢复？
 
