@@ -24,6 +24,6 @@ PS:解释几个问题
 
 
 **注意：**
-Github的图片经常抽风显示不出来，图片地址直接打开。
+Github的图片经常抽风显示不出来，未显示的图片地址，请复制到地址栏直接打开。
 
 长的这个样子：[http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg) 
