@@ -6,7 +6,7 @@
 
 注册完后建议你去领优惠券，也许还可以给你优惠点[点我领取](https://promotion.aliyun.com/ntms/yunparter/invite.html?userCode=xmsff8ku)
 
-图片有点多，需要等待，不出来多刷新试试。
+图片有点多，需要等待，不出来多刷新试试。还是不出来只能用这个方法了[](http://47.52.254.110:8096/scientific_internet_access/html/ALIYUN.html)
 
 如图所示：
 

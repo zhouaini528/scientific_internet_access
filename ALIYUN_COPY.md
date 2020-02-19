@@ -1,6 +1,6 @@
 ### 详细案列
 
-图片有点多，需要等待，不出来多刷新试试。。
+图片有点多，需要等待，不出来多刷新试试。还是不出来只能用这个方法了[](http://47.52.254.110:8096/scientific_internet_access/html/ALIYUN_COPY.html)
 
 [点击登录地址](https://account.aliyun.com/login/qr_login.htm)
 
