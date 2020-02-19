@@ -37,7 +37,7 @@
 
 2：地域选择？肯定要选择除大陆外的，个人推荐香港。有其他的需求选择其他国家，比如我选择的是新加坡
 
-3：实例配置？ 最低选择是1CPU 1G 但是完全够很多人使用了，我这边同时在线6个人都没问题。
+3：实例配置？ 最低选择是1CPU 0.5G 但是完全够很多人使用了，我这边同时在线6个人都没问题。
 
 4：镜像？首次搭建选择Ubuntu 18.04 64位
 
@@ -154,17 +154,17 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 
 第一步选择 1  ，然后就一直回车下去。
 
-![](./img/aliyun/v2ary/1.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/1.jpg)
 
-![](./img/aliyun/v2ary/2.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/2.jpg)
 
-![](./img/aliyun/v2ary/3.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/3.jpg)
 
-![](./img/aliyun/v2ary/4.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/4.jpg)
 
 最后安装结果。一定要复制出最后生成的所有信息
 
-![](./img/aliyun/v2ary/5.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/5.jpg)
 
 
 #### 八：最后一步，配置端口，打开防火墙
@@ -201,7 +201,7 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 
 添加端口与ip
 
-![](./img/aliyun/v2ary/6.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/6.jpg)
 
 
 #### 九：大功告成，下载梯子
@@ -213,15 +213,15 @@ https://tlanyan.me/v2ray-clients-download/
 
 如图所示：
 
-![](./img/aliyun/v2ary/7.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/7.jpg)
 
-![](./img/aliyun/v2ary/8.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/8.jpg)
 
-![](./img/aliyun/v2ary/9.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg)
 
 最后，选择你刚刚添加的服务器，并启动http代理，推荐用PAC模式
 
-![](./img/aliyun/v2ary/10.jpg)
+![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/10.jpg)
 
 
 如果还有不懂的可以看看这个[点击这里](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
