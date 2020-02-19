@@ -181,39 +181,7 @@ chmod +x shadowsocksR.sh
 
 ![](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/20.jpg)
 
-
-#### 七：V2Ray方式安装梯子（推荐用这种方式，被封几率小）
-
-和上面做做法一样，变化有3点。1：命令不一样了  2：我们用的阿里云服务器  3：客户端必须用V2Ray下面有连接。
-
-```shell
-bash <(curl -s -L https://git.io/v2ray.sh)
-
-apt-get update -y && apt-get install curl -y
-```
-命令的大神建立者,可以直接过去看看[点击这里](https://github.com/233boy/v2ray/wiki/V2Ray%E6%90%AD%E5%BB%BA%E8%AF%A6%E7%BB%86%E5%9B%BE%E6%96%87%E6%95%99%E7%A8%8B)
-
-我就直接copy原作者的了。
-
-然后选择安装，即是输入 1 回车
-选择传输协议，如果没有特别的需求，使用默认的 TCP 传输协议即可，直接回车
-选择端口，如果没有特别的需求，使用默认的端口即可，直接回车
-
-![](img/aliyun/v1.jpg)
-
-这个V2Ray其实可以安装Shadowsocks 协议，所以这个才是DIY应该去多多研究的。
-
-作者给了Shadowsocks安装方式，我就不放图了，我们就按1回车 ，然后一路下去都回车。
-
-最后安装结果（盗图的哈），选择了安装Shadowsocks就有 ，没选择就只有上面的。
-![](img/aliyun/v4.jpg)
-
-基本上安装就完了，去下个客户端[点击这里](https://github.com/233boy/v2ray/wiki/V2RayN%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
-
-最后重点提示，端口默认安装，它是随机给的。  阿里云一定要设置端口开放，不然就不能翻墙。如何设置，请看下面的流程
-
-
-#### 九：最后一步
+#### 八：最后一步
 
 1:进入ECS服务器列表
 
