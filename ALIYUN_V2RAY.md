@@ -93,7 +93,7 @@
 
 创建成功：
 
-![这里有个图片](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/8.png)
+![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/8.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/8.png)
 
 
 管理控制台：
