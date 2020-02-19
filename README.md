@@ -21,3 +21,20 @@ PS:解释几个问题
 [Aliyun 被封3分钟内解决](./ALIYUN_1.md)
 
 [Aliyun 镜像已建立如何快速复制](./ALIYUN_COPY.md)
+
+
+
+
+
+
+**注意：**github的图片经常抽风显示不出来，这里有个小技巧，如果你是使用的google浏览器，按F12找到图片的< a href> 标签里的内容，就是原始图片地址，是绝对能打开的。
+
+样例：
+```html
+<p>
+    <a target="_blank" rel="noopener noreferrer" href="一大堆地址">
+        <img src="一大堆地址" alt="" data-canonical-src="http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg" style="max-width:100%;">
+    </a>
+</p>
+```
+其中：[http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg) 为原始地址图片
