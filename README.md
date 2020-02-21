@@ -14,7 +14,7 @@ PS:解释几个问题
 
 **5：爱国守法，科学上网，杜绝一切违法行为，否则后果自负**
 
-[Aliyun V2ary 首次搭建梯子(推荐使用该方法，被封几率小)](./ALIYUN_V2RAY.md)
+[Aliyun V2ray 首次搭建梯子(推荐使用该方法，被封几率小)](./ALIYUN_V2RAY.md)
 
 [Aliyun Shadownsock 首次搭建梯子](./ALIYUN.md)
 
