@@ -48,6 +48,7 @@
 
 得到新IP,尝试是否可以正常翻墙，刚刚建立的梯子可能连接要等待1-5分钟
 
+以下是Shadownsock连接方式。如果是v2ray也是同样的，只修改IP就可以。
 windows的梯子[下载](https://github.com/shadowsocks/shadowsocks-windows/wiki/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E)
 
 ![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/113.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/113.jpg)
