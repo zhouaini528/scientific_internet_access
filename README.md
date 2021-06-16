@@ -32,3 +32,13 @@ PS:解释几个问题
 三：Github的图片经常抽风显示不出来，未显示的图片地址，请复制到地址栏直接打开。为什么抽风，发现它做了一次图片的本地化处理，本来国内访问就慢，还这样处理，经常出不来，我已经换了N种方法了。大家还是复制到地址栏直接打开最为好用
 
 长的这个样子：[http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg) 
+
+如果你觉得还可以谢谢你的打赏
+
+![微信图片_20210616104858](https://user-images.githubusercontent.com/5442664/122150581-92e49b00-ce90-11eb-8907-bdafaaa4e85e.jpg)
+
+![微信图片_20210616104905](https://user-images.githubusercontent.com/5442664/122150586-95df8b80-ce90-11eb-8a09-3c31b79532af.jpg)
+
+
+
+
