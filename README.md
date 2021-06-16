@@ -33,11 +33,15 @@ PS:解释几个问题
 
 长的这个样子：[http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/v2ary/9.jpg) 
 
-如果你觉得还可以谢谢你的打赏
 
-![微信图片_20210616104858](https://user-images.githubusercontent.com/5442664/122150581-92e49b00-ce90-11eb-8907-bdafaaa4e85e.jpg)
+**如果你觉得还可以谢谢你的打赏**
 
-![微信图片_20210616104905](https://user-images.githubusercontent.com/5442664/122150586-95df8b80-ce90-11eb-8a09-3c31b79532af.jpg)
+![zhifubao](https://user-images.githubusercontent.com/5442664/122150914-303fcf00-ce91-11eb-91bd-7f7a24c9ab03.jpg)
+
+![weixin](https://user-images.githubusercontent.com/5442664/122150967-4a79ad00-ce91-11eb-866f-4e5f6c859269.jpg)
+
+
+
 
 
 
