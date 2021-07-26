@@ -10,7 +10,7 @@
 
 如图所示：
 
-![http://47.52.254.110:8096/scientific_internet_access/img/aliyun/1.png](http://47.52.254.110:8096/scientific_internet_access/img/aliyun/1.png)
+![https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/1.jpg](https://github.com/zhouaini528/scientific_internet_access/blob/master/img/aliyun/1.jpg)
 
 
 #### 二:登录进去后，左边下拉框点击“云服务器ECS”
